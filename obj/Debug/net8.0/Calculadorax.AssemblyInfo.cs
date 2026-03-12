@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Calculadorax")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ddee2a167f54897b665e98b6cf56871945fe60a1")]
 [assembly: System.Reflection.AssemblyProductAttribute("Calculadorax")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Calculadorax")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
