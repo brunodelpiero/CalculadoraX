@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZcZFykJ21jA=",
+  "success": true,
+  "projectFilePath": "/home/bdp/Calculadorax/Calculadorax.csproj",
+  "expectedPackageFiles": [
+    "/home/bdp/.nuget/packages/microsoft.netcore.app.host.linux-x64/8.0.24/microsoft.netcore.app.host.linux-x64.8.0.24.nupkg.sha512"
+  ],
+  "logs": []
+}

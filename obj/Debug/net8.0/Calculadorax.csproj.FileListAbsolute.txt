@@ -1,0 +1,14 @@
+/home/bdp/Calculadorax/bin/Debug/net8.0/Calculadorax
+/home/bdp/Calculadorax/bin/Debug/net8.0/Calculadorax.deps.json
+/home/bdp/Calculadorax/bin/Debug/net8.0/Calculadorax.runtimeconfig.json
+/home/bdp/Calculadorax/bin/Debug/net8.0/Calculadorax.dll
+/home/bdp/Calculadorax/bin/Debug/net8.0/Calculadorax.pdb
+/home/bdp/Calculadorax/obj/Debug/net8.0/Calculadorax.GeneratedMSBuildEditorConfig.editorconfig
+/home/bdp/Calculadorax/obj/Debug/net8.0/Calculadorax.AssemblyInfoInputs.cache
+/home/bdp/Calculadorax/obj/Debug/net8.0/Calculadorax.AssemblyInfo.cs
+/home/bdp/Calculadorax/obj/Debug/net8.0/Calculadorax.csproj.CoreCompileInputs.cache
+/home/bdp/Calculadorax/obj/Debug/net8.0/Calculadorax.dll
+/home/bdp/Calculadorax/obj/Debug/net8.0/refint/Calculadorax.dll
+/home/bdp/Calculadorax/obj/Debug/net8.0/Calculadorax.pdb
+/home/bdp/Calculadorax/obj/Debug/net8.0/Calculadorax.genruntimeconfig.cache
+/home/bdp/Calculadorax/obj/Debug/net8.0/ref/Calculadorax.dll
